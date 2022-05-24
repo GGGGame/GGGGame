@@ -41,6 +41,3 @@
 <a href="https://www.php.net/">
 <img height="40px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </a>
-<a href="https://www.microsoft.com/it-it/sql-server/sql-server-2019">
-<img height="40px" width="40px" src="https://cdn-user-icons.flaticon.com/71133/71133516/1652624400748.svg?token=exp=1652625303~hmac=008b5c45bac032cd8729021a78726b2c">
-</a>
