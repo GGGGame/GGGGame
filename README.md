@@ -78,6 +78,6 @@
 
 ## Other work
 
-- **meta.ai-scraper** — TypeScript/Fastify scraper with Puppeteer session pool, stealth plugin, Redis stats tracking. 99.8% success rate on 1,000 requests. Built as a take-home test.
-- **AI Kosmo** — Voice/conversational AI agent with Twilio, WhatsApp, and WebSocket-based real-time flows.
-- **Wonderful Italy / UniWix** — PHP/Symfony microservices, ERP/CRM backend, SQL optimization, Docker infrastructure.
+- **meta.ai-scraper**: TypeScript/Fastify scraper with Puppeteer session pool, stealth plugin, Redis stats tracking. 99.8% success rate on 1,000 requests. Built as a take-home test.
+- **AI Kosmo**: Voice/conversational AI agent with Twilio, WhatsApp, and WebSocket-based real-time flows.
+- **Wonderful Italy / UniWix**: PHP/Symfony microservices, ERP/CRM backend, SQL optimization, Docker infrastructure.
