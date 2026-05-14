@@ -61,7 +61,7 @@
 
 ---
 
-## 🚀 Main project — Nolxy
+## Main project - Nolxy
 
 [**Nolxy**](https://nolxy.com) is a production-grade API gateway and management platform I designed and built from scratch.
 
@@ -76,7 +76,7 @@
 
 ---
 
-## 📌 Other work
+## Other work
 
 - **meta.ai-scraper** — TypeScript/Fastify scraper with Puppeteer session pool, stealth plugin, Redis stats tracking. 99.8% success rate on 1,000 requests. Built as a take-home test.
 - **AI Kosmo** — Voice/conversational AI agent with Twilio, WhatsApp, and WebSocket-based real-time flows.
